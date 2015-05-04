@@ -1,0 +1,29 @@
+{
+  "name": "get-gulp-args",
+  "description": "get command line arguments for gulp commands",
+  "version": "0.0.1",
+  "repository": "tamtakoe/get-gulp-args",
+  "author": "tamtakoe <tamtakoe@gmail.com>",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin", "arguments"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.0"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "bugs": {
+    "url": "https://github.com/tamtakoe/get-gulp-args/issues"
+  },
+  "homepage": "https://github.com/tamtakoe/get-gulp-args",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
